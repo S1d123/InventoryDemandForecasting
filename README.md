@@ -46,7 +46,7 @@ Web interface with HTML, CSS, and JavaScript.
 Contact
 For any questions or feedback, please contact:
 
-Email: chouguler310@gmail.com
+Email: divyanshujain888@gmail.com
 Feel free to customize the template according to your specific project details and preferences. If you have additional sections or details you'd like to include, please let me know!
 
 
