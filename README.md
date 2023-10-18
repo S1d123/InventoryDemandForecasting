@@ -2,9 +2,9 @@ Creating a detailed README file for Python installation is essential for helping
 
 ---
 
-# Project Name
+Inventory Demand Forecasting.
 
-Brief description of your project.
+Inventory demand forecasting is a critical task for businesses to optimize their operations and ensure customer satisfaction.  Inventory Demand Forecasting Overview Inventory Demand Forecasting is a machine learning project that utilizes linear regression to forecast the demands of goods in inventory based on previous data. The project is implemented using Django for the backend and a website created with HTML, CSS, and JavaScript.
 
 ## Table of Contents
 
